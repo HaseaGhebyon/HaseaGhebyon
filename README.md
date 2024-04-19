@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @HaseaGhebyon. You can call me Geb
-- 👀 I’m interested in System Architect
-- 🌱 I’m currently learning NEXT JS and Cybersecurity 
+- 👀 I’m interested in Software Architect and Generative AI
+- 🌱 I’m currently learning Genertive Adversarial Network and Diffusion Model
